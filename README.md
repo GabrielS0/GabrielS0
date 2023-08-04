@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Soares</h1>
 <h3 align="center">A student passionate about software from Argentina</h3>
 
-- 🌱 I’m currently learning **Haskell**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **gsoaresdeoliveira@frba.utn.edu.ar**
 
