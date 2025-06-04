@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Soares</h1>
-<h3 align="center">A student passionate about software and Data.</h3>
+<h3 align="center">A Data Engineer passionate about Data, software and infrastructure.</h3>
 
 
 - 📫 How to reach me **gabriel_s0@outlook.com**
